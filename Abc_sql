@@ -2,3 +2,5 @@ select * from employee;
 Select * from dept;
 insert into employee;
 select * from student;
+select * from all;
+
