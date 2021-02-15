@@ -1,2 +1,3 @@
 select * from employee;
 Select * from dept;
+insert into employee;
